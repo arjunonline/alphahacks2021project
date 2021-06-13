@@ -1,0 +1,10 @@
+required packages:
+Flask
+Flask-MySQLdb
+SQLAlchemy
+
+tools used:
+MySQL Workbench
+Visual Studio Code Live Share
+
+
